@@ -1,0 +1,21 @@
+2022-09-27 22:25:54 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 1.8.0_341 on DESKTOP-PIHSCHO with PID 6016 (C:\Users\Muaz\IdeaProjects\simplesteph\kafka-beginners-course\microservice-demo\twitter-to-kafka-service\target\classes started by Muaz in C:\Users\Muaz\IdeaProjects\simplesteph\kafka-beginners-course\microservice-demo)
+2022-09-27 22:25:54 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-27 22:25:55 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.964 seconds (JVM running for 2.992)
+2022-09-27 22:25:55 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - App Starts...
+2022-09-27 22:25:55 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - [Java, microservices, Spring-Boot, Spring, Kafka, Elasticsearch]
+2022-09-27 22:25:55 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - -WELCOME TO KAFAKA TO TWITTER SERVICE V0.1
+2022-09-27 22:25:55 [main] INFO  c.m.d.t.s.r.i.MockKafkaStreamRunner - Starting mock filttering twitter stream for keywords.... [Java, microservices, Spring-Boot, Spring, Kafka, Elasticsearch]
+2022-09-27 22:25:55 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text segs gay who bitch penis pokemon that Kafka bahi large that do you know the way penis fuck 
+2022-09-27 23:14:26 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 1.8.0_341 on DESKTOP-PIHSCHO with PID 3488 (C:\Users\Muaz\IdeaProjects\simplesteph\kafka-beginners-course\microservice-demo\twitter-to-kafka-service\target\classes started by Muaz in C:\Users\Muaz\IdeaProjects\simplesteph\kafka-beginners-course\microservice-demo)
+2022-09-27 23:14:26 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-27 23:14:27 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.886 seconds (JVM running for 2.764)
+2022-09-27 23:14:27 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - App Starts...
+2022-09-27 23:14:27 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - [Java, microservices, Spring-Boot, Spring, Kafka, Elasticsearch]
+2022-09-27 23:14:27 [main] INFO  c.m.d.t.s.TwitterToKafkaServiceApplication - -WELCOME TO KAFAKA TO TWITTER SERVICE V0.1
+2022-09-27 23:14:27 [main] INFO  c.m.d.t.s.r.i.MockKafkaStreamRunner - Starting mock filttering twitter stream for keywords.... [Java, microservices, Spring-Boot, Spring, Kafka, Elasticsearch]
+2022-09-27 23:14:27 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text bitch about dog dog Java why suck 
+2022-09-27 23:14:37 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text Kanye West fuck bitch rattle snake penis banana microservices why a segs banana 
+2022-09-27 23:14:47 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text that bitch dog small who Kanye West that microservices segs why pokemon bahi bahi who 
+2022-09-27 23:14:57 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text rattle snake segs banana do you know the way penis fuck Elasticsearch a has a small gay rattle snake 
+2022-09-27 23:15:07 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text fuck who small small bahi Java spartan bitch rattle snake has a 
+2022-09-27 23:15:17 [pool-1-thread-1] INFO  c.m.d.t.s.listener.TwitterListener - Twitter Status with text segs banana bitch large Spring-Boot do you know the way that 
